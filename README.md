@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: type mismatches in function arguments. The `calculateArea` function expects `Double` values for both `length` and `width`.  The `bug.swift` file shows the incorrect usage resulting in a compile-time error. The `bugSolution.swift` file demonstrates how to correct the issue by ensuring that the correct data types are used.
